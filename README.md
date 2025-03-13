@@ -1,2 +1,1 @@
-# nicolobarbershop
-Barbershop
+@NICOLO.BARBERSHOP
